@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi ranjan sharma.
-- 👀 I’m interested in website development.
-- 🌱 I’m currently learning html css js.
+- 👀 I’m interested in web-dev, Robotics, Iot, tech.
+- 🌱 I’m currently learning javascript, c++ , java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rr2436310@gmail.com
 - 😄 Pronouns: he/him.
